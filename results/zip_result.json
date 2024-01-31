@@ -1,0 +1,1696 @@
+{
+  "study": {
+    "studyID": "2.16.756.5.5.200.380380729.44228.1687345004.22",
+    "studyTitle": "7x 5mm tubes, CuSO4 0 - 100 mM",
+    "studyDateTime": "2023-06-21T12:56:44",
+    "program": "['Acquisition PV-360.3.3', 'ParaVision 360.3.3']",
+    "user": {
+      "name": "nmrsu",
+      "role": "<class 'str'>",
+      "affiliation": {
+        "institutionName": "Karlsruher Institut fuer Technologie",
+        "institutionAcronym": "<class 'str'>",
+        "institutionDepartment": "<class 'str'>",
+        "institutionID": "<class 'str'>"
+      },
+      "email": "<class 'str'>"
+    },
+    "sample": {
+      "sampleName": "Phantom^^^^",
+      "sampleID": "NBlumenroehr",
+      "sampleSize": {
+        "value": "<class 'float'>",
+        "unit": "m"
+      },
+      "sampleWeight": {
+        "value": 0.001,
+        "unit": "kg"
+      },
+      "measurementConditions": {
+        "value": 15.2736290742,
+        "unit": "T"
+      }
+    },
+    "instrument": {
+      "instrumentName": "<class 'str'>",
+      "instrumentID": "425590",
+      "instrumentManufacturer": {
+        "manufacturerName": "Bruker BioSpin MRI GmbH",
+        "modelName": "Biospec 152/11",
+        "manufacturerID": "<class 'str'>"
+      }
+    },
+    "series": [
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357482.1953",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 25,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 50,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 92,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357484.1957",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 25,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 75,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 132,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357487.1961",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 25,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 100,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 124,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357489.1965",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 25,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 150,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 102,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357491.1969",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 25,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 200,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 57,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357493.1973",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 25,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 300,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 57,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357495.1977",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 25,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 400,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 46,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357497.1981",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 25,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 500,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 41,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357499.1985",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 25,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 750,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 109,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357501.1989",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 25,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 1000,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 90,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357622.2113",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 30,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 36.0642967346,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 210,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357714.2129",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 30,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 40,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 114,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357716.2133",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 30,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 50,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 71,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357718.2137",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 30,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 75,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 98,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357719.2141",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 30,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 100,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 110,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357721.2145",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 30,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 150,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 85,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357723.2149",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 30,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 200,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 69,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357725.2153",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 30,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 300,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 142,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357727.2157",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 30,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 400,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 81,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357728.2161",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 30,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 500,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 30,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357730.2165",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 30,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 750,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 80,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357732.2169",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 30,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 1000,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 68,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357799.2242",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 5.0085095372958,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 1500,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 55,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357855.2264",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 5.0085095372958,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 2000,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 32,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seriesID": "2.16.756.5.5.200.380380729.44228.1687357888.2274",
+        "seriesTitle": "FLASH",
+        "sequenceProtocol": {
+          "sequenceProtocolName": "FLASH",
+          "effectiveEchoTime": {
+            "value": 8,
+            "unit": "ms"
+          },
+          "repetitionTime": {
+            "value": 1500,
+            "unit": "ms"
+          },
+          "flipAngle": {
+            "value": 30,
+            "unit": "degree"
+          }
+        },
+        "images": {
+          "allImages": {
+            "numberOfImages": "1",
+            "imageOrientation": [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "pixelSpacing": {
+              "value": [
+                0.1,
+                0.1
+              ],
+              "unit": "mm"
+            },
+            "sliceThickness": {
+              "value": 0.1,
+              "unit": "mm"
+            },
+            "imageSize": {
+              "rows": 300,
+              "columns": 300
+            },
+            "pixelRange": {
+              "pixelBandwidth": {
+                "value": 166.666666667,
+                "unit": "Hz"
+              },
+              "smallestImagePixelValue": 61,
+              "largestImagePixelValue": 32766,
+              "pixelRepresentation": 1
+            }
+          },
+          "perImage": [
+            {
+              "imageNumber": "<class 'int'>",
+              "sampleImagePosition": [
+                -15,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
